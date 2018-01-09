@@ -1,0 +1,9 @@
+[submodule "homepage"]
+	path = homepage
+	url = https://github.com/sarvang008/IMAD_Week1_homepage.git
+[submodule "searchpage"]
+	path = searchpage
+	url = https://github.com/sarvang008/Imad_Week1_SearchPage.git
+[submodule "home"]
+	path = home
+	url = https://github.com/sarvang008/IMAD_Week1_homepage.git
